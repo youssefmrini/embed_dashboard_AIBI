@@ -1,0 +1,12 @@
+# Same env as dashboard_embed; used when deploying this app
+env:
+  - name: OAUTH_SECRET
+    value: "dosef2a74e772d60d9540503ca19737cc991"
+  - name: OAUTH_CLIENT_ID
+    value: "b8922950-9fc2-4467-8494-b877b31562fc"
+  - name: INSTANCE_URL
+    value: "https://e2-demo-field-eng.cloud.databricks.com"
+  - name: WORKSPACE_ID
+    value: "1444828305810485"
+  - name: DASHBOARD_ID
+    value: "01f107fa936311f890c13129228a0e31"
