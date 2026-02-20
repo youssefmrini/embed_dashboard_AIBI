@@ -86,14 +86,14 @@ ALLOWED_USERS = {
         'name': 'Youssef Mrini',
         'email': 'youssef.mrini@databricks.com',
         'department': 'Viewer',
-        'password': 'realmadrid10.!',
+        'password': '',
     },
     'hanane.oudnia@databricks.com': {
         'id': 'user_hanane',
         'name': 'Hanane Oudnia',
         'email': 'hanane.oudnia@databricks.com',
         'department': 'Viewer',
-        'password': 'realmadrid10.!',
+        'password': '',
     },
 }
 
